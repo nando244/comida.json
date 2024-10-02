@@ -1,12 +1,12 @@
 {
-   "pastel": "Carne": "votos": 3000,
-   "pastel": "Queijo": "votos": 2200,
-   "pastel": "Frango": "votos": 1800,
-   "pastel": "Palmito": "votos": 1500,
-   "pastel": "Calabresa": "votos": 1300,
-   "pastel": "Camarão": "votos": 1000,
-   "pastel": "Legumes": "votos": 800,
-   "pastel": "Ricota": "votos": 700,
-   "pastel": "Carne Seca": "votos": 600,
-   "pastel": "Mistura": "votos": 500 
+   "Carne": 3000,
+   "Queijo": 2200,
+   "Frango": 1800,
+   "Palmito": 1500,
+   "Calabresa": 1300,
+   "Camarão": 1000,
+   "Legumes": 800,
+   "Ricota": 700,
+   "Carne Seca": 600,
+   "Mistura": 500 
   }
