@@ -1,52 +1,12 @@
 [
-  {
-    "pastel": "Pastel de Carne",
-    "votos": 3000,
-    "comentario": "O pastel de carne é o meu favorito! Sempre saboroso."
-  },
-  {
-    "pastel": "Pastel de Queijo",
-    "votos": 2200,
-    "comentario": "Nada como um pastel de queijo quentinho para alegrar o dia!"
-  },
-  {
-    "pastel": "Pastel de Frango",
-    "votos": 1800,
-    "comentario": "Adoro o pastel de frango, é prático e delicioso."
-  },
-  {
-    "pastel": "Pastel de Palmito",
-    "votos": 1500,
-    "comentario": "Os pastéis de palmito têm um ótimo sabor!"
-  },
-  {
-    "pastel": "Pastel de Calabresa",
-    "votos": 1300,
-    "comentario": "Um pastel recheado com calabresa é sempre uma ótima pedida."
-  },
-  {
-    "pastel": "Pastel de Camarão",
-    "votos": 1000,
-    "comentario": "Perfeito para quem gosta de frutos do mar!"
-  },
-  {
-    "pastel": "Pastel de Legumes",
-    "votos": 800,
-    "comentario": "Uma opção leve e saudável."
-  },
-  {
-    "pastel": "Pastel de Ricota",
-    "votos": 700,
-    "comentario": "Adoro a cremosidade do pastel de ricota!"
-  },
-  {
-    "pastel": "Pastel de Carne Seca",
-    "votos": 600,
-    "comentario": "Ótimo para quem busca um sabor marcante."
-  },
-  {
-    "pastel": "Pastel de Mistura",
-    "votos": 500,
-    "comentario": "Uma opção variada e deliciosa!"
-  }
+  { "pastel": "Pastel de Carne", "votos": 3000 },
+  { "pastel": "Pastel de Queijo", "votos": 2200 },
+  { "pastel": "Pastel de Frango", "votos": 1800 },
+  { "pastel": "Pastel de Palmito", "votos": 1500 },
+  { "pastel": "Pastel de Calabresa", "votos": 1300 },
+  { "pastel": "Pastel de Camarão", "votos": 1000 },
+  { "pastel": "Pastel de Legumes", "votos": 800 },
+  { "pastel": "Pastel de Ricota", "votos": 700 },
+  { "pastel": "Pastel de Carne Seca", "votos": 600 },
+  { "pastel": "Pastel de Mistura", "votos": 500 }
 ]
